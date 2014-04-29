@@ -2,6 +2,7 @@
 class BlogAction extends CommonAction {
 
     public function index() {
+	cccccccc
 
     }
 
